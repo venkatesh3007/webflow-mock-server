@@ -15,7 +15,7 @@
       "max": 500000
     } 
   },
-  "link_clinks": {
+  "link_clicks": {
     "int" : {
       "min": 10,
       "max": 500
