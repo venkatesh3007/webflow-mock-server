@@ -1,7 +1,21 @@
 {
   "Dashboard": {
-    "total_earned": { "String": 20000 },
-    "redeemed": { "String": 12000 },
-    "link_clinks": { "String": 386 }
+    "total_earned": {
+      "int": {
+        "min": 5000,
+        "max": 1000000
+    } 
+  },
+  "redeemed": {
+    "int": {
+      "min": 2000,
+      "max": 500000
+    } 
+  },
+  "link_clinks": {
+    "int" : {
+      "min": 10,
+      "max": 500
+    }
   }
 }
