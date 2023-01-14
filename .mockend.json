@@ -1,5 +1,7 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Dashboard": {
+    "total_earned": { "number": 20000 },
+    "redeemed": { "number": 12000 },
+    "link_clinks": { "number": 386 }
   }
 }
