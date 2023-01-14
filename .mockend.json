@@ -20,6 +20,18 @@
       "min": 10,
       "max": 500
       }
+    },
+  "conversions": {
+    "int" : {
+      "min": 10,
+      "max": 1000
+      }
+    },
+  "yet_to_redeem": {
+      "int": {
+        "min": 2000,
+        "max": 10000
+      }
     }
   }
 }
