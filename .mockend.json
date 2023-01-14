@@ -1,7 +1,7 @@
 {
   "Dashboard": {
-    "total_earned": { "number": 20000 },
-    "redeemed": { "number": 12000 },
-    "link_clinks": { "number": 386 }
+    "total_earned": { "String": 20000 },
+    "redeemed": { "String": 12000 },
+    "link_clinks": { "String": 386 }
   }
 }
