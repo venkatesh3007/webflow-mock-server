@@ -1,7 +1,7 @@
 {
-  "Dashboard": {
+  "dashboard_data": {
     "_": {
-      "items": 1
+      "items": 10
     },
     "total_earned": {
       "int": {
