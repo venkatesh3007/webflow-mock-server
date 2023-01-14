@@ -1,5 +1,8 @@
 {
   "Dashboard": {
+    "_"P {
+      "items": 1
+    },
     "total_earned": {
       "int": {
         "min": 5000,
@@ -16,6 +19,7 @@
     "int" : {
       "min": 10,
       "max": 500
+      }
     }
   }
 }
